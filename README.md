@@ -78,7 +78,7 @@ NEXT_PUBLIC_APP_URL="http://localhost:3000"
 
 🚀 Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/ai-career-coach.git
+git clone https://github.com/priyaparihar2006/SENS-AI
 cd ai-career-coach
 
 2️⃣ Install dependencies
